@@ -6,4 +6,6 @@
 ## EXPERIMENT 3
 DML COMMANDS-(INSERT,SELECT)-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%203.txt)
 ## EXPERIMENT 4
-DML COMMANDS-(UPDATE,DELETE)-
+DML COMMANDS-(UPDATE,DELETE)-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%204.txt)
+## EXPERIMENT 5
+SELECT with various clause-(WHERE,PATTERN MATCHING)-
