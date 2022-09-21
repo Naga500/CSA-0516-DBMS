@@ -1,4 +1,3 @@
 # CSA0516 - DBMS
 ## EXPERIMENT 1
-  DDL COMMANDS-
-  Alter-
+  DDL COMMANDS(create, alter, drop)-
