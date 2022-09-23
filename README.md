@@ -16,4 +16,6 @@ SELECT with various clause-(GROUP BY,HAVING,ORDER BY-(https://github.com/Naga500
 ## EXPERIMENT 8
 Sub query&correlated query-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%208.txt)
 ## EXPERIMENT 9
-joins-Equijoin,innerjoin,outerjoin-(
+joins-Equijoin,innerjoin,outerjoin-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%209.txt)
+## EXPERIMENT 10
+VIEW,INDEX,SEQUENCE-(
