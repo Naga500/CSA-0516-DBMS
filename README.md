@@ -11,3 +11,5 @@ DML COMMANDS-(UPDATE,DELETE)-(https://github.com/Naga500/CSA-0516-DBMS/blob/main
 SELECT with various clause-(WHERE,PATTERN MATCHING)-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%205.txt)
 ## EXPERIMENT 6
 SELECT with various clause-(BETWEEN,IN,AGGREGATE FUNCTION)-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%206.txt)
+## EXPERIMENT 7
+SELECT with various clause-(GROUP BY,HAVING,ORDER BY-(
