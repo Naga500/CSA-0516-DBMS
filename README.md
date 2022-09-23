@@ -14,4 +14,6 @@ SELECT with various clause-(BETWEEN,IN,AGGREGATE FUNCTION)-(https://github.com/N
 ## EXPERIMENT 7
 SELECT with various clause-(GROUP BY,HAVING,ORDER BY-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%207.txt)
 ## EXPERIMENT 8
-Sub query&correlated query-(
+Sub query&correlated query-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%208.txt)
+## EXPERIMENT 9
+joins-Equijoin,innerjoin,outerjoin-(
