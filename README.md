@@ -18,4 +18,6 @@ Sub query&correlated query-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/t
 ## EXPERIMENT 9
 joins-Equijoin,innerjoin,outerjoin-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%209.txt)
 ## EXPERIMENT 10
-VIEW,INDEX,SEQUENCE-(
+VIEW,INDEX,SEQUENCE-(https://github.com/Naga500/CSA-0516-DBMS/blob/main/txt%20exp%20no%2010.txt)
+## EXPERIMENT 11
+simple programming exxerccisesusingn CASE,IF,ITERATE,LEAVE,LOOP-( 
